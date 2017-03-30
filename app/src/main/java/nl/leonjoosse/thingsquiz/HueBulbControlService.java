@@ -47,8 +47,8 @@ public class HueBulbControlService extends IntentService {
 
     public static final String TAG = HueBulbControlService.class.getSimpleName();
 
-    public static final String HUE_HUB_IP = "192.168.0.101";
-    public static final String HUE_HUB_USERNAME = "2yWmiKGU9M0GXTdqPXTOeW9CGpS-ZBrw98z0c8Ot";
+    public static final String HUE_HUB_IP = "10.42.39.194";
+    public static final String HUE_HUB_USERNAME = "vJB9Z1Q-SnW2Lunvzohsn2O17yVq8kqfhsHnNNa2";
 
     public static final String EXTRA_BULB = "bulb";
     public static final String EXTRA_COMMAND = "command";
