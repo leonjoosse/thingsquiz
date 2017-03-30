@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:padding="32dp">
+
+    <TextView
+        android:id="@+id/txt_question_number"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center"
+        android:text="Team 1 won!"
+        android:textSize="80sp"
+        android:textAppearance="@style/TextAppearance.AppCompat.Display4"
+        android:layout_alignParentTop="true"
+        />
+
+    <TextView
+        android:id="@+id/txt_team_that_pressed"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="32dp"
+        android:layout_gravity="bottom"
+        android:gravity="center"
+        android:text="Press R to restart"
+        android:textAppearance="@style/TextAppearance.AppCompat.Display1"
+        android:textStyle="italic"
+        android:layout_alignParentBottom="true"/>
+
+    <TextView
+        android:id="@+id/txt_question"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="32dp"
+        android:gravity="center"
+        android:text="Congratulations team 1!\n\nTeam 1: 4 points\nTeam 2: 4 points"
+        android:textAppearance="@style/TextAppearance.AppCompat.Display2"
+        android:layout_above="@id/txt_team_that_pressed"
+        android:layout_below="@id/txt_question_number"
+        />
+
+</RelativeLayout>
