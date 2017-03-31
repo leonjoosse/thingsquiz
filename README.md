@@ -55,6 +55,5 @@ that's no fun at all!
 
 ------
 
-Created during a Dutch Android User Group meetup. http://dutchaug.org
-
-Created by Leon Joosse. 
+Created by Leon Joosse, Tom Sabel, Hans van der Scheer and Roland Kierkels 
+during a Dutch Android User Group meetup. http://dutchaug.org
