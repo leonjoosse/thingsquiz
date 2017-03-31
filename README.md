@@ -53,6 +53,15 @@ that's no fun at all!
 - A log line should appear: "Press any key to start"
 - Have fun!
 
+## Todo
+
+A couple of todo items from the top of my head. Probably missing a couple...
+
+- Add a UI, so the Pi can be hooked up to a screen to display questions
+- Support more input types (big red arcade buttons are my favorite!)
+- More user friendly Hue Bridge discovery
+- More user friendly lamp configuring
+
 ------
 
 Created by Leon Joosse, Tom Sabel, Hans van der Scheer and Roland Kierkels 
