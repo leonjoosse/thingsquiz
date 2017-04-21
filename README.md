@@ -1,6 +1,8 @@
 # ThingsQuiz
 Quiz app for RPi3 + Android Things + Philips Hue (min 2 lamps)
 
+_Contains hackathon code, amount of wtf's per minute will probably be high._
+
 ## The game
 
 You need two teams and one game host. The LogCat functions for now as
